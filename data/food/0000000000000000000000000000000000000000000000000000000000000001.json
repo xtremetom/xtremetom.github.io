@@ -1,5 +1,11 @@
 {
   "description": "ItemTest - Banana",
   "image": "https://xtremetom.github.io/assets/images/food/banana.png",
-  "name": "Banana"
+  "name": "Banana",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Food"
+    }
+  ]
 }

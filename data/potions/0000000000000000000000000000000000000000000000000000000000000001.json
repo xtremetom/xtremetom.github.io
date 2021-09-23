@@ -1,5 +1,11 @@
 {
   "description": "ItemTest - XP",
   "image": "https://xtremetom.github.io/assets/images/potions/xp.png",
-  "name": "XP"
+  "name": "XP",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Potion"
+    }
+  ]
 }

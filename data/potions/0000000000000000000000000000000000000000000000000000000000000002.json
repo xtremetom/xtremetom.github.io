@@ -1,5 +1,11 @@
 {
   "description": "ItemTest - Charm",
   "image": "https://xtremetom.github.io/assets/images/potions/charm.png",
-  "name": "Charm"
+  "name": "Charm",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Potion"
+    }
+  ]
 }
